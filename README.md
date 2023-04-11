@@ -66,8 +66,8 @@ Thank you to Prime Digital Academy for the guidance and support in creating this
 
 Chandler Bursey-Reece     <a href="https://www.linkedin.com/in/chandler-bursey-reece-5b036a195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Arys Nagle <a href="https://www.linkedin.com/in/andrew-lounsbury/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Arys Nagle <a href="https://www.linkedin.com/in/arys-nagle/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Siroun Peterson  <a href="https://www.linkedin.com/in/brandon-mccarty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Siroun Peterson  <a href="https://www.linkedin.com/in/sirounpetersen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Izaac Ballard  <a href="https://www.linkedin.com/in/joseph-sanchez-27b933234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
