@@ -13,7 +13,10 @@
 
 ## Description
 
-Pulse Share is a spinal cord stimulation setting community forum primarily for individuals living with SCI, clinicians, and researchers to characterize, share, observe, rate, and comment on spinal cord stimulation settings.
+Pulse Share is an android fitness application that assists users in improving their overall health & being. Users answer questions at sign up and get personalized notifications throughout the day on their daily steps (Too Little, Too Much). Application will be connected to a forum which is also accessible via web to be able to discuss and participate in health discussions.
+
+The forum is for users to share, discuss, and comment with each other about their goals and progress. People with similar health questions will be able to discuss amongst each other.
+
 
 The application provides both administrative and public user access. Users can create and edit their profile, edit and delete posts and comment on other users posts. Users can upload photos and video to comments and posts. Users can be made moderators and help moderate the forum. User accounts can be deleted.
 
